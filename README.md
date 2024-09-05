@@ -1,1 +1,1 @@
-# Square-Game
+# Snack-Game
