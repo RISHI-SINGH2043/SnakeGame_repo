@@ -1,1 +1,2 @@
 # Snake-Game
+THIS IS MY SMALL SNAKE GAME BY C++.
